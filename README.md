@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # 💫 About Me:
 
@@ -18,4 +18,4 @@
 
 
 
-</p>
+</div>
